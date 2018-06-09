@@ -4,7 +4,7 @@
 
 **Forma Normal**
 
-Cualquier BBDD bien diseñada se basa en el paradigma relacional e implmenta la llamada *Forma Normal*
+Cualquier BBDD bien diseñada se basa en el paradigma relacional e implementa la llamada *Forma Normal*
 
 Explicado en pocas palabras:
 
